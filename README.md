@@ -30,7 +30,7 @@ ex2
 
 
 | numbers  |      title1   | title2 |
-|----------|:-------------:|:------:|
+|----------|-------------|------|
 | 3        |  potatoes     | nose   |
 | 6        |   beans       |ring    |
 | 5        |  shoes        |hand    |
