@@ -4,28 +4,30 @@ ex2
 
 ## I am creating checkboxes
 - [ ] [External Link](#External_Link)
-- [ ] Internal Link
-- [ ] Images
-- [ ] Emojis 
-- [ ] Tables
+- [ ] [Internal Link](#Internal_Link)
+- [ ] [Images](#Images)
+- [ ] [Emojis](#Emojis)
+- [ ] [Tables](#tables)
 
 
-## <a name="External_Link">External link</a> 
+## <a name="External_Link"> External link </a> 
 
 [I'm an inline-style link and I was copied from the manual](https://www.google.com)
 
-## Internal link
+## <a name="Internal_Link"> Internal link </a> 
 [a link to images folder](https://github.com/federicalora94/authoring/tree/main/Pictures)
 
-## Images
+## <a name="Images"> Images </a> 
+
 ![random text](https://github.com/federicalora94/authoring/blob/main/Pictures/Screenshot%20from%202021-09-09%2009-19-49.png)
 
-## Emojis
+## <a name="Emojis"> Emojis </a>
 :joy: 🤖
 \
 👁👄👁
 
-## Tables
+## <a name="tables"> Tables </a>
+
 
 | numbers  |      title1   | title2 |
 |----------|:-------------:|:------:|
